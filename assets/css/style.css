@@ -1,0 +1,27 @@
+header {
+    background-color: #a55eea;
+    color: rgb(255, 255, 255);
+    /* color: rgba(255, 255, 255, .1); */
+    padding: 15px;
+    margin: 0 26px;
+    text-align: center;
+}
+
+article{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 36px;
+    margin: 0 29px;
+    text-align: left;;
+
+}
+
+.about{
+    background-color: #dcdde1;
+}
+
+.post{
+    background-color: #ebb2b2;
+}
